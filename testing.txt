@@ -3,3 +3,5 @@ this is just testing capabilities of Git and GithHub
 #i think that Git supports MarkDown 
 
 Editing this file
+
+Addding this on testing1 brand 
